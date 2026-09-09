@@ -1,4 +1,4 @@
-# Strutture per Veicoli Spaziali
+# Strutture per veicoli spaziali
 
 Materiale del corso di ''Strutture per Veicoli Spaziali'' per gli studenti aerospaziali del Politecnico di Torino.
 
