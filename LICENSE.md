@@ -1,6 +1,6 @@
 ## [IT] Copyright (c) 2026 Alfonso Pagani
 
-Questo repository contiene materiale didattico, appunti delle lezioni e software sviluppati per finalità di insegnamento e ricerca.
+Questo repository contiene materiale didattico, appunti delle lezioni e software sviluppati per finalità di insegnamento.
 
 È concessa a studenti, docenti e ricercatori l’autorizzazione ad accedere, utilizzare, copiare e modificare i contenuti di questo repository esclusivamente per finalità didattiche e di ricerca senza scopo di lucro.
 
@@ -15,7 +15,7 @@ I MATERIALI SONO FORNITI “COSÌ COME SONO”, SENZA ALCUNA GARANZIA, ESPRESSA 
 
 ## [EN] Copyright (c) 2026 Alfonso Pagani
 
-This repository contains educational materials, lecture notes, and software developed for teaching and academic research purposes.
+This repository contains educational materials, lecture notes, and software developed for teaching purposes.
 
 Permission is granted to students, educators, and researchers to access, use, copy, and modify the contents of this repository for non-commercial educational and academic research purposes only.
 
