@@ -9,7 +9,7 @@ Materiale didattico del corso **Strutture per Veicoli Spaziali** per gli student
 
 ## Appunti del corso
 
-- <a href="book/svsbook.pdf" target="_blank" rel="noopener">Appunti di Strutture per Veicoli Spaziali</a>
+- [Appunti di Strutture per Veicoli Spaziali](book/)
 
 ## Slide
 
