@@ -9,6 +9,11 @@ title: Strutture per Veicoli Spaziali
 
 Materiale didattico del corso **Strutture per Veicoli Spaziali** per gli studenti di Ingegneria Aerospaziale del Politecnico di Torino.
 
+<div class="course-meta">
+  <span><strong>Anno accademico:</strong> 2026/27</span>
+  <span><strong>Ultimo aggiornamento materiale didattico:</strong> {{ site.data.materials.last_update }}</span>
+</div>
+
 <div class="course-grid">
 
 <a class="course-card" href="book/">
