@@ -9,7 +9,7 @@ Materiale didattico del corso **Strutture per Veicoli Spaziali** per gli student
 
 ## Appunti del corso
 
-- [Appunti di Strutture per Veicoli Spaziali](book/svsbook.pdf)
+- <a href="book/svsbook.pdf" target="_blank" rel="noopener">Appunti di Strutture per Veicoli Spaziali</a>
 
 ## Slide
 
@@ -23,10 +23,10 @@ Materiale didattico del corso **Strutture per Veicoli Spaziali** per gli student
 
 Repository correlati:
 
-- [Classical Lamination Theory (CLT), ABD matrices](https://github.com/alfonsopagani/clt)
-- [FEM code of a piping system](https://github.com/alfonsopagani/femtubi)
+- <a href="https://github.com/alfonsopagani/clt" target="_blank" rel="noopener">Classical Lamination Theory (CLT), ABD matrices</a>
+- <a href="https://github.com/alfonsopagani/femtubi" target="_blank" rel="noopener">FEM code of a piping system</a>
 
 ## Repository GitHub
 
 Il materiale sorgente, i codici e lo storico delle revisioni sono disponibili nel
-[repository GitHub del corso](https://github.com/alfonsopagani/svs).
+<a href="https://github.com/alfonsopagani/svs" target="_blank" rel="noopener">repository GitHub del corso</a>.
