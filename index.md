@@ -9,17 +9,24 @@ title: Strutture per Veicoli Spaziali
 
 Materiale didattico del corso **Strutture per Veicoli Spaziali** per gli studenti di Ingegneria Aerospaziale del Politecnico di Torino.
 
-## Appunti del corso
+<div class="course-grid">
 
-- [Appunti di Strutture per Veicoli Spaziali](book/)
+<a class="course-card" href="book/">
+<h2>Appunti</h2>
+<p>Appunti e materiale teorico del corso.</p>
+</a>
 
-## Slide
+<a class="course-card" href="slides/">
+<h2>Slide</h2>
+<p>Slide utilizzate durante le lezioni.</p>
+</a>
 
-- [Slide del corso](slides/)
+<a class="course-card" href="codes/">
+<h2>Codici</h2>
+<p>Script MATLAB, notebook Wolfram Mathematica ed esempi numerici.</p>
+</a>
 
-## Codici ed esempi
-
-- [Codici MATLAB e Wolfram Mathematica](codes/)
+</div>
 
 ## Risorse utili
 
