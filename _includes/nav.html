@@ -3,13 +3,13 @@
      {% if page.url == '/' %}class="active"{% endif %}>Home</a>
 
   <a href="{{ '/book/' | relative_url }}"
-     {% if page.url == '/book/' %}class="active"{% endif %}>Appunti</a>
+     {% if page.url contains '/book/' %}class="active"{% endif %}>Appunti</a>
 
   <a href="{{ '/slides/' | relative_url }}"
-     {% if page.url == '/slides/' %}class="active"{% endif %}>Slide</a>
+     {% if page.url contains '/slides/' %}class="active"{% endif %}>Slide</a>
 
   <a href="{{ '/codes/' | relative_url }}"
-     {% if page.url == '/codes/' %}class="active"{% endif %}>Codici</a>
+     {% if page.url contains '/codes/' %}class="active"{% endif %}>Codici</a>
 
   <a href="https://github.com/alfonsopagani/svs"
      target="_blank"
