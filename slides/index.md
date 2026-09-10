@@ -3,6 +3,8 @@ layout: default
 title: Slide
 ---
 
+{% include nav.html %}
+
 # Slide
 
 Materiale didattico del corso **Strutture per Veicoli Spaziali**.
