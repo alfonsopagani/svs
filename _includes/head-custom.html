@@ -7,4 +7,39 @@
 <!-- GoatCounter Analytics -->
 <script data-goatcounter="https://alfonsopagani.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("a[href]").forEach(function (link) {
+        try {
+            const url = new URL(link.href, window.location.href);
+
+            if (/\.(pdf|m|nb)$/i.test(url.pathname)) {
+                const path = url.pathname.replace(/^\/+/, "");
+
+                link.setAttribute(
+                    "data-goatcounter-click",
+                    "download/" + path
+                );
+
+                link.setAttribute(
+                    "data-goatcounter-title",
+                    "Materiale: " + decodeURIComponent(url.pathname.split("/").pop())
+                );
+            }
+        } catch (e) {
+            // Ignora URL non validi
+        }
+    });
+
+    // count.js può essere caricato in modo asincrono:
+    // attendiamo che GoatCounter sia disponibile e associamo gli eventi.
+    const timer = setInterval(function () {
+        if (window.goatcounter && window.goatcounter.bind_events) {
+            clearInterval(timer);
+            window.goatcounter.bind_events();
+        }
+    }, 100);
+});
+</script>
 <!-- End GoatCounter Analytics -->
