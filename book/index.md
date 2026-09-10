@@ -3,6 +3,8 @@ layout: default
 title: Appunti del corso
 ---
 
+{% include nav.html %}
+
 # Appunti del corso
 
 Appunti di **Strutture per Veicoli Spaziali**.
