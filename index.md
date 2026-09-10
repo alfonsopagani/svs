@@ -49,9 +49,15 @@ Il materiale sorgente, i codici e lo storico delle revisioni sono disponibili ne
   <strong>Alfonso Pagani</strong><br>
   Dipartimento di Ingegneria Meccanica e Aerospaziale<br>
   Politecnico di Torino<br>
-  <a href="https://www.mul2.com" target="_blank" rel="noopener">MUL2 Lab</a>
-</div>
+  <a href="https://www.mul2.com" target="_blank" rel="noopener">MUL2 Research Group</a>
 
+  <div class="mul2-logo">
+    <a href="https://www.mul2.com" target="_blank" rel="noopener">
+      <img src="assets/img/LOGO_MUL2_HD.png"
+           alt="MUL2 Research Group">
+    </a>
+  </div>
+</div>
 
 <p class="analytics-note">
   Questo sito utilizza strumenti di analisi del traffico in forma aggregata
