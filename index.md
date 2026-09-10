@@ -11,7 +11,7 @@ Materiale didattico del corso **Strutture per Veicoli Spaziali** per gli student
 
 <div class="course-meta">
   <span><strong>Anno accademico:</strong> 2026/27</span>
-  <span><strong>Ultimo aggiornamento materiale didattico:</strong> {{ site.data.materials.last_update }}</span>
+  <span><strong>Ultimo aggiornamento:</strong> {{ site.data.materials.last_update }}</span>
 </div>
 
 <div class="course-grid">
