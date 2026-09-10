@@ -48,11 +48,14 @@ document.addEventListener("DOMContentLoaded", function () {
 <!-- End GoatCounter Analytics -->
 
 <style>
-/* Nasconde il titolo automatico del sito generato dal tema */
 .container-lg > h1:first-child {
     display: none;
 }
-        
+
+.container-lg {
+    padding-top: 1.5rem !important;
+}
+
 .course-nav {
     margin: 0 0 2rem 0;
     padding: 0.75rem 0;
@@ -70,23 +73,16 @@ document.addEventListener("DOMContentLoaded", function () {
     text-decoration: underline;
 }
 
-@media (max-width: 600px) {
-    .course-nav a {
-        margin-right: 1rem;
-        margin-bottom: 0.5rem;
-    }
-}
-
 .course-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
-    margin: 2rem 0 2.5rem 0;
+    gap: 0.9rem;
+    margin: 1.75rem 0 2.25rem 0;
 }
 
 .course-card {
     display: block;
-    padding: 1.25rem 1.4rem;
+    padding: 1rem 1.25rem;
     border: 1px solid #d0d7de;
     border-radius: 6px;
     text-decoration: none !important;
@@ -108,9 +104,23 @@ document.addEventListener("DOMContentLoaded", function () {
     margin-bottom: 0;
 }
 
+.anchorjs-link {
+    display: none !important;
+}
+
+footer,
+.footer {
+    display: none !important;
+}
+
 @media (max-width: 700px) {
     .course-grid {
         grid-template-columns: 1fr;
+    }
+
+    .course-nav a {
+        margin-right: 1rem;
+        margin-bottom: 0.5rem;
     }
 }
 </style>
