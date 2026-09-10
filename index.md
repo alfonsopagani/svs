@@ -55,7 +55,7 @@ Il materiale sorgente, i codici e lo storico delle revisioni sono disponibili ne
 
   <div class="mul2-logo">
     <a href="https://www.mul2.com" target="_blank" rel="noopener">
-      <img src="assets/img/logo_new_sqr.png"
+      <img src="assets/img/logo_mul2.png"
            alt="MUL2 Research Group">
     </a>
   </div>
