@@ -56,16 +56,16 @@ Il materiale sorgente, i codici e lo storico delle revisioni sono disponibili ne
   <div class="mul2-logo">
     <a href="https://www.mul2.com" target="_blank" rel="noopener">
       <img src="assets/img/logo_mul2.png"
-           alt="MUL2 Research Group">
+           alt="MUL2 Lab">
     </a>
   </div>
 </div>
 
-<p class="analytics-note">
+<div class="site-footer-note">
   Questo sito utilizza strumenti di analisi del traffico in forma aggregata per monitorare l'utilizzo del materiale didattico.
   <span class="license-link">
     &nbsp;·&nbsp;
     <a href="https://github.com/alfonsopagani/svs/blob/main/LICENSE.md"
        target="_blank" rel="noopener">Licenza e condizioni d'uso</a>
   </span>
-</p>
+</div>
