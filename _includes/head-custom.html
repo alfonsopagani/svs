@@ -24,7 +24,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
                 link.setAttribute(
                     "data-goatcounter-title",
-                    "Materiale: " + decodeURIComponent(url.pathname.split("/").pop())
+                    link.textContent.trim()
+                );
                 );
             }
         } catch (e) {
