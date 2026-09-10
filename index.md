@@ -3,6 +3,8 @@ layout: default
 title: Strutture per Veicoli Spaziali
 ---
 
+{% include nav.html %}
+
 # Strutture per Veicoli Spaziali
 
 Materiale didattico del corso **Strutture per Veicoli Spaziali** per gli studenti di Ingegneria Aerospaziale del Politecnico di Torino.
