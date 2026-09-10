@@ -71,4 +71,46 @@ document.addEventListener("DOMContentLoaded", function () {
         margin-bottom: 0.5rem;
     }
 }
+
+/* Nasconde il titolo automatico del sito generato dal tema */
+.container-lg > h1:first-child {
+    display: none;
+}
+
+.course-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin: 2rem 0 2.5rem 0;
+}
+
+.course-card {
+    display: block;
+    padding: 1.25rem 1.4rem;
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+.course-card:hover {
+    border-color: #0969da;
+}
+
+.course-card h2 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    color: #0969da;
+    border-bottom: none;
+}
+
+.course-card p {
+    margin-bottom: 0;
+}
+
+@media (max-width: 700px) {
+    .course-grid {
+        grid-template-columns: 1fr;
+    }
+}
 </style>
