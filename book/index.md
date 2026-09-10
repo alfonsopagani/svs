@@ -11,7 +11,7 @@ Appunti di **Strutture per Veicoli Spaziali**.
 
 Il documento raccoglie e approfondisce gli argomenti trattati durante il corso.
 
-- <a href="svsbook.pdf" target="_blank" rel="noopener">Appunti di Strutture per Veicoli Spaziali — PDF</a>
+<a href="svsbook.pdf" target="_blank" rel="noopener">Appunti di Strutture per Veicoli Spaziali — PDF</a>
 
 ---
 
