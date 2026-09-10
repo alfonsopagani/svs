@@ -52,6 +52,7 @@ Il materiale sorgente, i codici e lo storico delle revisioni sono disponibili ne
   <a href="https://www.mul2.com" target="_blank" rel="noopener">MUL2 Lab</a>
 </div>
 
+
 <p class="analytics-note">
   Questo sito utilizza strumenti di analisi del traffico in forma aggregata
   per monitorare l'utilizzo del materiale didattico.
