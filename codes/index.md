@@ -3,6 +3,8 @@ layout: default
 title: Codici
 ---
 
+{% include nav.html %}
+
 # Codici
 
 Script MATLAB e notebook Wolfram Mathematica per esempi numerici e analisi di problemi di dinamica strutturale, stabilità e meccanismi spaziali.
