@@ -62,6 +62,11 @@ Papers:
      rel="noopener">
     A. Pagani, E. Carrera, “Gasdynamics of rapid and explosive decompressions of pressurized aircraft including active venting,” <em>Advances in Aircraft and Spacecraft Science</em>, 3(1):77–93, 2016.
   </a>
+- <a href="https://www.doi.org/10.1007/BF02736649"
+     target="_blank"
+     rel="noopener">
+    E. Carrera, “Theories and finite elements for multilayered, anisotropic, composite plates and shells,” <em>Archives of Computational Methods in Engineering </em>, 9:87-140, 2002.
+  </a>
 
 ## Repository GitHub
 
