@@ -40,6 +40,14 @@ Repository correlati:
 - <a href="https://github.com/alfonsopagani/clt" target="_blank" rel="noopener">Classical Lamination Theory (CLT), ABD matrices</a>
 - <a href="https://github.com/alfonsopagani/femtubi" target="_blank" rel="noopener">FEM code of a piping system</a>
 
+Papers:
+
+- <a href="papers/pagani_carrera_aas_2016.pdf"
+     target="_blank"
+     rel="noopener">
+    A. Pagani & E. Carrera, “Gasdynamics of rapid and explosive decompressions of pressurized aircraft including active venting,” <em>Advances in Aircraft and Spacecraft Science</em>, 3(1):77–93, 2016.
+  </a>
+
 ## Repository GitHub
 
 Il materiale sorgente, i codici e lo storico delle revisioni sono disponibili nel
