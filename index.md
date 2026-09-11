@@ -55,7 +55,7 @@ Papers:
 - <a href="papers/tresoldi_shore_pagani_aglietti_ijss_2025.pdf"
      target="_blank"
      rel="noopener">
-    JA. Tresoldi, J. Shore, A. Pagani, G. Aglietti ``Deployment dynamics of a high strain deployable rolled-up composite SAR antenna,'' <em>International Journal of Solids and Structures</em>, 310:113208, 2025.
+    JA. Tresoldi, J. Shore, A. Pagani, G. Aglietti, ``Deployment dynamics of a high strain deployable rolled-up composite SAR antenna,'' <em>International Journal of Solids and Structures</em>, 310:113208, 2025.
   </a>
 - <a href="papers/pagani_carrera_aas_2016.pdf"
      target="_blank"
