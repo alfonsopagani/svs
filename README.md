@@ -25,6 +25,7 @@ Repository correlati:
 Pubblicazioni:
 
 - [J.A. Moreira, F. Moleiro, A.L. Araújo, A. Pagani, ``Aero-thermo-elastic behaviour of variable stiffness composite laminates and sandwich panels with temperature-dependent material properties,'' _Thin-Walled Structures_, 224:114738, 2026.](https://raw.githubusercontent.com/alfonsopagani/svs/main/papers/moreira_moleiro_araujo_pagani_tws_2026.pdf)
+- [A. Tresoldi, J. Shore, A. Pagani, G. Aglietti ``Deployment dynamics of a high strain deployable rolled-up composite SAR antenna,'' _International Journal of Solids and Structures_, 310:113208, 2022.](https://raw.githubusercontent.com/alfonsopagani/svs/main/papers/tresoldi_shore_pagani_aglietti_ijss_2025.pdf)
 - [A. Pagani, E. Carrera, ``Gasdynamics of rapid and explosive decompressions of pressurized aircraft including active venting,'' _Advances in Aircraft and Spacecraft Science_, 3(1):77--93, 2016.](https://raw.githubusercontent.com/alfonsopagani/svs/main/papers/pagani_carrera_aas_2016.pdf)
 
 ## Sito del corso
