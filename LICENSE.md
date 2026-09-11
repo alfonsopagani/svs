@@ -10,6 +10,18 @@ Qualsiasi utilizzo, riproduzione, distribuzione o opera derivata deve riconoscer
 
 Gli appunti delle lezioni e i materiali manoscritti contenuti in questo repository potranno essere incorporati in future pubblicazioni. Non viene concesso alcun diritto di riprodurre, ripubblicare o distribuire commercialmente tali materiali.
 
+### Come citare
+
+In caso di utilizzo del materiale in elaborati, tesi, pubblicazioni, presentazioni o altro materiale didattico o scientifico, si prega di citare:
+
+**A. Pagani, _Strutture per Veicoli Spaziali – Materiale didattico_, Politecnico di Torino, 2026.**
+
+Per materiale tratto direttamente dal repository, è inoltre possibile indicare:
+
+**A. Pagani, _Strutture per Veicoli Spaziali_, GitHub repository, https://github.com/alfonsopagani**
+
+Per figure, codici o singoli esempi, si raccomanda di indicare anche il file o la sezione specifica utilizzata.
+
 I MATERIALI SONO FORNITI “COSÌ COME SONO”, SENZA ALCUNA GARANZIA, ESPRESSA O IMPLICITA.
 
 
@@ -24,5 +36,17 @@ Any use, reproduction, distribution, or derivative work must acknowledge the ori
 Commercial use of any part of this repository, including the lecture notes, software, figures, examples, or derivative works, is prohibited without prior written permission from the author.
 
 The lecture notes and manuscript materials contained in this repository may be incorporated into future publications. No rights are granted to reproduce, republish, or commercially distribute such materials.
+
+### How to cite
+
+When using material from this repository in reports, theses, publications, presentations, or other educational or scientific works, please cite:
+
+**A. Pagani, _Spacecraft Structures – Teaching Material_, Politecnico di Torino, 2026.**
+
+For material taken directly from the repository, the following reference may also be used:
+
+**A. Pagani, __Spacecraft Structures_, GitHub repository, https://github.com/alfonsopagani/svs**
+
+For figures, software, or individual examples, please also indicate the specific file or section used.
 
 THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
