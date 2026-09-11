@@ -24,7 +24,7 @@ Repository correlati:
 
 Pubblicazioni:
 
-- [A. Pagani & E. Carrera, ``Gasdynamics of rapid and explosive decompressions of pressurized aircraft including active venting,'' _Advances in Aircraft and Spacecraft Science_, 3(1):77--93, 2016.](https://github.com/alfonsopagani/papers/pagani_carrera_aas_2016.pdf/)
+- [A. Pagani & E. Carrera, ``Gasdynamics of rapid and explosive decompressions of pressurized aircraft including active venting,'' _Advances in Aircraft and Spacecraft Science_, 3(1):77--93, 2016.](https://github.com/alfonsopagani/svs/blob/main/papers/pagani_carrera_aas_2016.pdf)
 
 ## Sito del corso
 
