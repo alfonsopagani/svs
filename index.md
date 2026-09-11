@@ -45,17 +45,17 @@ Papers:
 - <a href="papers/bracaglia_pagani_zappino_carrera_nlm_2026.pdf"
      target="_blank"
      rel="noopener">
-    F. Bracaglia, A. Pagani, E. Zappino, E. Carrera, ``Geometric nonlinear thermo-elastic analysis of thin-walled beams by high-order finite elements,'' _International Journal of Non-Linear Mechanics_, 191:105427, 2026.
+    F. Bracaglia, A. Pagani, E. Zappino, E. Carrera, ``Geometric nonlinear thermo-elastic analysis of thin-walled beams by high-order finite elements,'' <em>International Journal of Non-Linear Mechanics</em>, 191:105427, 2026.
   </a>
 - <a href="papers/moreira_moleiro_araujo_pagani_tws_2026.pdf"
      target="_blank"
      rel="noopener">
-    J.A. Moreira, F. Moleiro, A.L. Araújo, A. Pagani, ``Aero-thermo-elastic behaviour of variable stiffness composite laminates and sandwich panels with temperature-dependent material properties,'' _Thin-Walled Structures_, 224:114738, 2026.
+    J.A. Moreira, F. Moleiro, A.L. Araújo, A. Pagani, ``Aero-thermo-elastic behaviour of variable stiffness composite laminates and sandwich panels with temperature-dependent material properties,'' <em>Thin-Walled Structures</em>, 224:114738, 2026.
   </a>
 - <a href="papers/tresoldi_shore_pagani_aglietti_ijss_2025.pdf"
      target="_blank"
      rel="noopener">
-    JA. Tresoldi, J. Shore, A. Pagani, G. Aglietti ``Deployment dynamics of a high strain deployable rolled-up composite SAR antenna,'' _International Journal of Solids and Structures_, 310:113208, 2025.
+    JA. Tresoldi, J. Shore, A. Pagani, G. Aglietti ``Deployment dynamics of a high strain deployable rolled-up composite SAR antenna,'' <em>International Journal of Solids and Structures</em>, 310:113208, 2025.
   </a>
 - <a href="papers/pagani_carrera_aas_2016.pdf"
      target="_blank"
@@ -65,7 +65,7 @@ Papers:
 - <a href="https://www.doi.org/10.1007/BF02736649"
      target="_blank"
      rel="noopener">
-    E. Carrera, “Theories and finite elements for multilayered, anisotropic, composite plates and shells,” <em>Archives of Computational Methods in Engineering </em>, 9:87-140, 2002.
+    E. Carrera, “Theories and finite elements for multilayered, anisotropic, composite plates and shells,” <em>Archives of Computational Methods in Engineering</em>, 9:87-140, 2002.
   </a>
 
 ## Repository GitHub
