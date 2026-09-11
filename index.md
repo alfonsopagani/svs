@@ -42,6 +42,11 @@ Repository correlati:
 
 Papers:
 
+- <a href="papers/bracaglia_pagani_zappino_carrera_nlm_2026.pdf"
+     target="_blank"
+     rel="noopener">
+    F. Bracaglia, A. Pagani, E. Zappino, E. Carrera, ``Geometric nonlinear thermo-elastic analysis of thin-walled beams by high-order finite elements,'' _International Journal of Non-Linear Mechanics_, 191:105427, 2026.
+  </a>
 - <a href="papers/moreira_moleiro_araujo_pagani_tws_2026.pdf"
      target="_blank"
      rel="noopener">
