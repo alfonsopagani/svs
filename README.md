@@ -1,27 +1,37 @@
-# Strutture per veicoli spaziali
+# Strutture per Veicoli Spaziali
 
-Materiale del corso di ''Strutture per Veicoli Spaziali'' per gli studenti aerospaziali del Politecnico di Torino.
+Materiale didattico del corso **Strutture per Veicoli Spaziali** per gli studenti di Ingegneria Aerospaziale del Politecnico di Torino.
 
-## Appunti e dispense
+## Appunti e slide
 
-Materiale teorico, slide e note integrative.
+Materiale teorico, appunti e slide del corso.
 
-📂 Cartella: [book/](book/)
-
-📂 Cartella: [slides/](slides/)
+- [Appunti del corso](book/)
+- [Slide](slides/)
 
 ## Codici
 
-Script ed esempi utilizzati durante il corso.
+Script MATLAB, notebook Wolfram Mathematica ed esempi numerici utilizzati durante il corso.
 
-📂 Cartella: [codes/](codes/)
+- [Codici ed esempi](codes/)
 
-## Risorse Utili
+## Risorse utili
 
 Repository correlati:
 
-- Classical Lamination Theory (CLT), ABD matrices: [clt/](https://github.com/alfonsopagani/clt)
-- FEM code of a piping system: [femtubi/](https://github.com/alfonsopagani/femtubi)
+- [Classical Lamination Theory (CLT), ABD matrices](https://github.com/alfonsopagani/clt)
+- [FEM code of a piping system](https://github.com/alfonsopagani/femtubi)
 
-Papers:
+## Pubblicazioni
+
 - ...
+
+## Sito del corso
+
+Il materiale è disponibile anche tramite la pagina GitHub Pages del corso:
+
+https://alfonsopagani.github.io/svs/
+
+## Licenza
+
+Il materiale è distribuito secondo le condizioni riportate in [LICENSE.md](LICENSE.md).
