@@ -45,7 +45,7 @@ When using material from this repository in reports, theses, publications, prese
 
 For material taken directly from the repository, the following reference may also be used:
 
-**A. Pagani, __Spacecraft Structures_, GitHub repository, https://github.com/alfonsopagani/svs**
+**A. Pagani, _Spacecraft Structures_, GitHub repository, https://github.com/alfonsopagani/svs**
 
 For figures, software, or individual examples, please also indicate the specific file or section used.
 
