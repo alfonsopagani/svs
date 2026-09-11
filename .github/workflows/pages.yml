@@ -31,13 +31,10 @@ jobs:
           LAST_UPDATE=$(git log -1 \
             --date=format:'%d/%m/%Y' \
             --format='%ad' \
-            -- book/ slides/ codes/ \
+            -- book/ slides/ codes/ papers/ \
             ':(exclude)book/index.md' \
-            ':(exclude)book/README.md' \
             ':(exclude)slides/index.md' \
-            ':(exclude)slides/README.md' \
-            ':(exclude)codes/index.md' \
-            ':(exclude)codes/README.md')
+            ':(exclude)codes/index.md')
 
           mkdir -p _data
           printf 'last_update: "%s"\n' "$LAST_UPDATE" > _data/materials.yml
