@@ -22,7 +22,7 @@ Repository correlati:
 - [Classical Lamination Theory (CLT), ABD matrices](https://github.com/alfonsopagani/clt)
 - [FEM code of a piping system](https://github.com/alfonsopagani/femtubi)
 
-## Pubblicazioni
+Pubblicazioni:
 
 - ...
 
