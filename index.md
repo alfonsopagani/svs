@@ -42,10 +42,15 @@ Repository correlati:
 
 Papers:
 
+- <a href="papers/moreira_moleiro_araujo_pagani_tws_2026.pdf"
+     target="_blank"
+     rel="noopener">
+    J.A. Moreira, F. Moleiro, A.L. Araújo, A. Pagani, ``Aero-thermo-elastic behaviour of variable stiffness composite laminates and sandwich panels with temperature-dependent material properties,'' _Thin-Walled Structures_, 224:114738, 2026.
+  </a>
 - <a href="papers/pagani_carrera_aas_2016.pdf"
      target="_blank"
      rel="noopener">
-    A. Pagani & E. Carrera, “Gasdynamics of rapid and explosive decompressions of pressurized aircraft including active venting,” <em>Advances in Aircraft and Spacecraft Science</em>, 3(1):77–93, 2016.
+    A. Pagani, E. Carrera, “Gasdynamics of rapid and explosive decompressions of pressurized aircraft including active venting,” <em>Advances in Aircraft and Spacecraft Science</em>, 3(1):77–93, 2016.
   </a>
 
 ## Repository GitHub
