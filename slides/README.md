@@ -27,27 +27,3 @@ Il materiale didattico è organizzato nei seguenti moduli:
 | 14 | Richiami sulle serie e trasformate di Fourier | [svs_14_fourier.pdf](svs_14_fourier.pdf) |
 
 Il materiale potrà essere progressivamente aggiornato, ampliato o riorganizzato.
-
----
-
-## Utilizzo del materiale
-
-Studenti, docenti e ricercatori possono utilizzare il materiale di questo repository per studio, ricerca e attività didattiche.
-
-L'utilizzo o l'adattamento del materiale deve sempre riportare un adeguato riconoscimento dell'autore originale.
-
-Una possibile forma di citazione è:
-
-> A. Pagani, *Strutture per Veicoli Spaziali – Dispense del corso*, Politecnico di Torino, 2026.
-
-Nel caso di utilizzo di singole figure, formulazioni, esempi o parti del materiale, deve essere fornita un'appropriata attribuzione della fonte.
-
----
-
-## Autore
-
-**Alfonso Pagani**  
-Dipartimento di Ingegneria Meccanica e Aerospaziale  
-Politecnico di Torino
-
-[MUL2 Research Group](https://www.mul2.com)
