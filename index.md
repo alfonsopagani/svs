@@ -47,6 +47,11 @@ Papers:
      rel="noopener">
     J.A. Moreira, F. Moleiro, A.L. Araújo, A. Pagani, ``Aero-thermo-elastic behaviour of variable stiffness composite laminates and sandwich panels with temperature-dependent material properties,'' _Thin-Walled Structures_, 224:114738, 2026.
   </a>
+- <a href="papers/tresoldi_shore_pagani_aglietti_ijss_2025.pdf"
+     target="_blank"
+     rel="noopener">
+    JA. Tresoldi, J. Shore, A. Pagani, G. Aglietti ``Deployment dynamics of a high strain deployable rolled-up composite SAR antenna,'' _International Journal of Solids and Structures_, 310:113208, 2025.
+  </a>
 - <a href="papers/pagani_carrera_aas_2016.pdf"
      target="_blank"
      rel="noopener">
