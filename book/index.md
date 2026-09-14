@@ -23,14 +23,13 @@ Versione ridotta degli appunti liberamente disponibile.
 
 Accesso riservato tramite account Polito.
 
-<a href="[URL_PROTETTO](https://politoit-my.sharepoint.com/:b:/g/personal/alfonso_pagani_polito_it/IQATxULjYjbyRpcxMLsTi1hjAd0ZyD5lHB_10Sj1xEPN06k?e=8bqJYQ)"
+- <a href="https://politoit-my.sharepoint.com/:b:/g/personal/alfonso_pagani_polito_it/IQATxULjYjbyRpcxMLsTi1hjAd0ZyD5lHB_10Sj1xEPN06k?e=8bqJYQ"
    target="_blank"
    rel="noopener"
    data-goatcounter-click="accesso/versione-completa"
    data-goatcounter-title="Appunti — versione completa"
    data-goatcounter-no-session="1">
-   Accedi alla versione completa
-</a>
+   Appunti di Strutture per Veicoli Spaziali — versione completa</a>
 
 ---
 
