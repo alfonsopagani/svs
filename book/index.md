@@ -21,7 +21,7 @@ Versione ridotta degli appunti liberamente disponibile.
 
 ## Versione completa
 
-Accesso riservato tramite account Polito.
+La versione completa degli appunti è riservata agli studenti del corso. L’accesso richiede un account Polito.
 
 - <a href="https://politoit-my.sharepoint.com/:b:/g/personal/alfonso_pagani_polito_it/IQATxULjYjbyRpcxMLsTi1hjAd0ZyD5lHB_10Sj1xEPN06k?e=8bqJYQ"
    target="_blank"
