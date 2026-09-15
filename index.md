@@ -92,8 +92,7 @@ Il materiale sorgente, i codici e lo storico delle revisioni sono disponibili ne
 <div class="site-footer-note">
   Questo sito utilizza strumenti di analisi del traffico in forma aggregata per monitorare l'utilizzo del materiale didattico.
   <span class="license-link">
-    &nbsp;·&nbsp;
     <a href="https://github.com/alfonsopagani/svs/blob/main/LICENSE.md"
-       target="_blank" rel="noopener">Licenza e condizioni d'uso</a>
+       target="_blank" rel="noopener">Licenza e condizioni d'uso.</a>
   </span>
 </div>
