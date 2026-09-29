@@ -15,7 +15,7 @@ I modelli includono sistemi discreti a più gradi di libertà, modelli struttura
 
 Capitolo 2, <a href="../slides/svs_02_dinamica_1gdl.pdf" target="_blank" rel="noopener">slide sulla dinamica a 1 GDL</a>.
 
-Modello a singolo grado di libertà di una piastra con massa fittizia soggetta a carichi acustici. Assegnato il livello di pressione sonora (SPL) del lanciatore, calcola:
+Modello a singolo grado di libertà di una piastra con massa discreta soggetta a carichi acustici. Assegnato il livello di pressione sonora (SPL) del lanciatore, calcola:
 
 - densità spettrale di potenza della pressione;
 - funzione di trasferimento;
@@ -31,7 +31,7 @@ Per un sistema payload-lanciatore a 4 gradi di libertà, calcola:
 
 - forme modali e frequenze naturali;
 - risposta dinamica;
-- masse modali efficaci e fattori di partecipazione modale;
+- masse modali effettive e fattori di partecipazione modale;
 - contributo di ciascun modo alla risposta.
 
 ## <a href="guyan.m" target="_blank" rel="noopener">guyan.m</a>
@@ -55,13 +55,13 @@ Per lo stesso modello a 10 gradi di libertà dell'esempio precedente, calcola:
 - animazioni delle forme modali;
 - matrici generalizzate di massa e rigidezza;
 - fattori di partecipazione;
-- masse modali efficaci.
+- masse modali effettive.
 
 \*Per eseguire lo script è necessaria la funzione <a href="animate.m" target="_blank" rel="noopener">animate.m</a>.
 
 ## <a href="buckling.m" target="_blank" rel="noopener">buckling.m</a>
 
-Capitoli 10-12, <a href="../slides/" target="_blank" rel="noopener">slide del corso</a>, e Sezioni 13.1.2 e 13.1.3 degli <a href="../book/svsbook.pdf" target="_blank" rel="noopener">appunti del corso</a>.
+Capitoli 10-12, <a href="../slides/" target="_blank" rel="noopener">slide del corso</a>, e Sezioni 13.1.2 e 13.1.3 degli <a href="../book/" target="_blank" rel="noopener">appunti del corso</a>.
 
 Per una colonna soggetta a compressione, calcola:
 
@@ -81,7 +81,7 @@ Notebook Wolfram Mathematica. Ripropone lo stesso esercizio di <a href="postbuck
 
 ## <a href="pendulum.nb" target="_blank" rel="noopener">pendulum.nb</a>
 
-Appendice C degli <a href="../book/svsbook.pdf" target="_blank" rel="noopener">appunti del corso</a>.
+Appendice C degli <a href="../book/" target="_blank" rel="noopener">appunti del corso</a>.
 
 Notebook Wolfram Mathematica relativo al pendolo non lineare e alla sua analogia con la soluzione dell'elastica.
 
@@ -96,7 +96,7 @@ Analisi cinematica di un sistema multibody rappresentativo di un pannello solare
 
 ## <a href="tapedeploy.nb" target="_blank" rel="noopener">tapedeploy.nb</a>
 
-Capitolo 12, <a href="../slides/svs_12_esempi_nonlineari.pdf" target="_blank" rel="noopener">slide sugli esempi non lineari</a>, e Sezione 13.3 degli <a href="../book/svsbook.pdf" target="_blank" rel="noopener">appunti del corso</a>.
+Capitolo 12, <a href="../slides/svs_12_esempi_nonlineari.pdf" target="_blank" rel="noopener">slide sugli esempi non lineari</a>, e Sezione 13.3 degli <a href="../book/" target="_blank" rel="noopener">appunti del corso</a>.
 
 Notebook Wolfram Mathematica per l'analisi del dispiegamento a singolo grado di libertà di una tape spring. Fornisce:
 
