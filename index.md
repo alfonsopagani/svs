@@ -35,6 +35,10 @@ Materiale didattico del corso **Strutture per Veicoli Spaziali** per gli student
 
 ## Risorse utili
 
+Tools:
+
+- <a href="https://alfonsopagani.github.io/spcdeco/" target="_blank" rel="noopener">Launch Decompression Calculator</a>
+
 Repository correlati:
 
 - <a href="https://github.com/alfonsopagani/clt" target="_blank" rel="noopener">Classical Lamination Theory (CLT), ABD matrices</a>
