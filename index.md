@@ -35,7 +35,7 @@ Materiale didattico del corso **Strutture per Veicoli Spaziali** per gli student
 
 ## Risorse utili
 
-Tools:
+Strumenti:
 
 - <a href="https://alfonsopagani.github.io/spcdeco/" target="_blank" rel="noopener">Launch Decompression Calculator</a>
 
