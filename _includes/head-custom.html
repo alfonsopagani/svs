@@ -9,67 +9,50 @@
         async src="//gc.zgo.at/count.js"></script>
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll("a[href]").forEach(function (link) {
-        try {
-            const url = new URL(link.href, window.location.href);
-            const currentHost = window.location.hostname;
+document.addEventListener("click", function (event) {
+    const link = event.target.closest("a[href]");
 
-            // 1. File didattici / download
-            if (/\.(pdf|m|nb)$/i.test(url.pathname)) {
-                const path = url.pathname.replace(/^\/+/, "");
+    if (!link) {
+        return;
+    }
 
-                link.setAttribute(
-                    "data-goatcounter-click",
-                    "download/" + path
-                );
+    try {
+        const url = new URL(link.href, window.location.href);
+        const currentHost = window.location.hostname;
 
-                link.setAttribute(
-                    "data-goatcounter-title",
-                    link.textContent.trim()
-                );
+        let eventPath = null;
 
-                link.setAttribute(
-                    "data-goatcounter-no-session",
-                    "1"
-                );
-
-                return;
-            }
-
-            // 2. Link esterni
-            if (url.hostname !== currentHost) {
-                const host = url.hostname.replace(/^www\./, "");
-
-                link.setAttribute(
-                    "data-goatcounter-click",
-                    "external/" + host + url.pathname
-                );
-
-                link.setAttribute(
-                    "data-goatcounter-title",
-                    link.textContent.trim()
-                );
-
-                link.setAttribute(
-                    "data-goatcounter-no-session",
-                    "1"
-                );
-            }
-
-        } catch (e) {
-            // Ignora URL non validi
+        // File didattici
+        if (/\.(pdf|m|nb)$/i.test(url.pathname)) {
+            eventPath = "download/" + url.pathname.replace(/^\/+/, "");
         }
-    });
 
-    // count.js viene caricato in modo asincrono.
-    // Quando GoatCounter è disponibile, collega gli eventi ai link.
-    const timer = setInterval(function () {
-        if (window.goatcounter && window.goatcounter.bind_events) {
-            clearInterval(timer);
-            window.goatcounter.bind_events();
+        // Link esterni
+        else if (url.hostname !== currentHost) {
+            const host = url.hostname.replace(/^www\./, "");
+
+            eventPath =
+                "external/" +
+                host +
+                url.pathname;
         }
-    }, 100);
+
+        if (
+            eventPath &&
+            window.goatcounter &&
+            typeof window.goatcounter.count === "function"
+        ) {
+            window.goatcounter.count({
+                path: eventPath,
+                title: link.textContent.trim(),
+                event: true,
+                no_session: true
+            });
+        }
+
+    } catch (e) {
+        console.error("GoatCounter click tracking error:", e);
+    }
 });
 </script>
 <!-- End GoatCounter Analytics -->
