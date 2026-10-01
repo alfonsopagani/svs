@@ -13,7 +13,9 @@ document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll("a[href]").forEach(function (link) {
         try {
             const url = new URL(link.href, window.location.href);
+            const currentHost = window.location.hostname;
 
+            // 1. File didattici / download
             if (/\.(pdf|m|nb)$/i.test(url.pathname)) {
                 const path = url.pathname.replace(/^\/+/, "");
 
@@ -31,12 +33,37 @@ document.addEventListener("DOMContentLoaded", function () {
                     "data-goatcounter-no-session",
                     "1"
                 );
+
+                return;
             }
+
+            // 2. Link esterni
+            if (url.hostname !== currentHost) {
+                const host = url.hostname.replace(/^www\./, "");
+
+                link.setAttribute(
+                    "data-goatcounter-click",
+                    "external/" + host + url.pathname
+                );
+
+                link.setAttribute(
+                    "data-goatcounter-title",
+                    link.textContent.trim()
+                );
+
+                link.setAttribute(
+                    "data-goatcounter-no-session",
+                    "1"
+                );
+            }
+
         } catch (e) {
             // Ignora URL non validi
         }
     });
 
+    // count.js viene caricato in modo asincrono.
+    // Quando GoatCounter è disponibile, collega gli eventi ai link.
     const timer = setInterval(function () {
         if (window.goatcounter && window.goatcounter.bind_events) {
             clearInterval(timer);
