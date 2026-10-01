@@ -18,17 +18,27 @@ document.addEventListener("click", function (event) {
 
     try {
         const url = new URL(link.href, window.location.href);
-        const currentHost = window.location.hostname;
 
         let eventPath = null;
 
-        // File didattici
+        // Il nostro sito è:
+        // https://alfonsopagani.github.io/svs/
+        const isInternal =
+            url.origin === window.location.origin &&
+            (
+                url.pathname === "/svs" ||
+                url.pathname.startsWith("/svs/")
+            );
+
+        // 1. File didattici: PDF, MATLAB, Mathematica
         if (/\.(pdf|m|nb)$/i.test(url.pathname)) {
-            eventPath = "download/" + url.pathname.replace(/^\/+/, "");
+            eventPath =
+                "download/" +
+                url.pathname.replace(/^\/+/, "");
         }
 
-        // Link esterni
-        else if (url.hostname !== currentHost) {
+        // 2. Qualsiasi destinazione esterna al sito /svs/
+        else if (!isInternal) {
             const host = url.hostname.replace(/^www\./, "");
 
             eventPath =
