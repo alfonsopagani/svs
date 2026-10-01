@@ -17,6 +17,10 @@ Script MATLAB, notebook Wolfram Mathematica ed esempi numerici utilizzati durant
 
 ## Risorse utili
 
+Strumenti:
+
+- [Launch Decompression Calculator](https://alfonsopagani.github.io/spcdeco/)
+
 Repository correlati:
 
 - [Classical Lamination Theory (CLT), ABD matrices](https://github.com/alfonsopagani/clt)
