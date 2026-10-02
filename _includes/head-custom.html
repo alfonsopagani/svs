@@ -16,6 +16,12 @@ document.addEventListener("click", function (event) {
         return;
     }
 
+    // Se il link ha già un evento GoatCounter definito manualmente,
+    // non registrarlo una seconda volta.
+    if (link.hasAttribute("data-goatcounter-click")) {
+    return;
+    }
+
     try {
         const url = new URL(link.href, window.location.href);
 
